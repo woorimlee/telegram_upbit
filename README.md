@@ -13,6 +13,12 @@
 
 4. [텔레그램 봇 간단 예제](https://idlecomputer.tistory.com/122)
 
+5. [telegram bot api doc](https://core.telegram.org/bots/api)
+
+6. [upbit api doc](https://docs.upbit.com/reference#%EC%9B%90%ED%99%94-%EC%9E%85%EA%B8%88%ED%95%98%EA%B8%B0)
+
+7. [upbit error code doc](https://docs.upbit.com/docs/api-%EC%A3%BC%EC%9A%94-%EC%97%90%EB%9F%AC-%EC%BD%94%EB%93%9C-%EB%AA%A9%EB%A1%9D)
+
 
 ### 사용한 버전
 * Python 3.8.3
