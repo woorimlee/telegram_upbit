@@ -4,10 +4,10 @@
 
 ### 참고한 문서
 1. [telegram.ext.updater](https://python-telegram-bot.readthedocs.io/en/stable/telegram.ext.updater.html#telegram.ext.Updater.bot)
-  * Its purpose is to receive the updates from Telegram and to deliver them to said dispatcher.
+    * Its purpose is to receive the updates from Telegram and to deliver them to said dispatcher.
 
 2. [python-telegram-bot_guide](https://github.com/python-telegram-bot/python-telegram-bot/wiki/Transition-guide-to-Version-12.0)
-  * Handler
+    * Handler
 
 3. [telegram bot 2. 업비트 코인 가격을 메시지로 전송](https://apt-info.github.io/%EA%B0%9C%EB%B0%9C/telegram-command/)
 
