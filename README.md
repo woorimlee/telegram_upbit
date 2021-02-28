@@ -21,6 +21,8 @@
 
 8. [UTC : GMT to KST](https://dojang.io/mod/page/view.php?id=2463)
 
+9. [텔레그램 봇 db 사용자 인증 관련 예제](https://ddoadm.tistory.com/66)
+
 ### 사용한 버전
 * Python 3.8.3
 * python-telegram-bot==13.3
