@@ -19,6 +19,7 @@
 
 7. [upbit error code doc](https://docs.upbit.com/docs/api-%EC%A3%BC%EC%9A%94-%EC%97%90%EB%9F%AC-%EC%BD%94%EB%93%9C-%EB%AA%A9%EB%A1%9D)
 
+8. [UTC : GMT to KST](https://dojang.io/mod/page/view.php?id=2463)
 
 ### 사용한 버전
 * Python 3.8.3
