@@ -3,8 +3,10 @@
 * 실행 결과랑 참고한 문서만 올릴 예정
 
 ### 실행 결과
-
-
+ 
+![i.png](https://user-images.githubusercontent.com/36785390/109453167-b6780700-7a94-11eb-9db2-c87b35fa7338.png)
+ 
+ 
 ### 참고한 문서
 1. [telegram.ext.updater](https://python-telegram-bot.readthedocs.io/en/stable/telegram.ext.updater.html#telegram.ext.Updater.bot)
     * Its purpose is to receive the updates from Telegram and to deliver them to said dispatcher.
