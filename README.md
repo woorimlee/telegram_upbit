@@ -30,6 +30,11 @@
 
 9. [텔레그램 봇 db 사용자 인증 관련 예제](https://ddoadm.tistory.com/66)
 
+10. [aws jupyter notebook 서버 1](https://ndb796.tistory.com/250)
+
+11. [aws jupyter notebook 서버 2](https://wooiljeong.github.io/server/cloud_jupyter/)
+
+
 ### 사용한 버전
 * Python 3.8.3
 * python-telegram-bot==13.3
