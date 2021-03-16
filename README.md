@@ -4,6 +4,10 @@
 * 실행 결과랑 참고한 문서만 올릴 예정
 
 
+### 현재 문제점
+* 약 17시간마다 주피터 노트북 실행이 멈추는 것 같음. 원인 파악중
+
+
 ### 실행 결과
  
 ![i.png](https://user-images.githubusercontent.com/36785390/109453167-b6780700-7a94-11eb-9db2-c87b35fa7338.png)
@@ -33,6 +37,8 @@
 10. [aws jupyter notebook 서버 1](https://ndb796.tistory.com/250)
 
 11. [aws jupyter notebook 서버 2](https://wooiljeong.github.io/server/cloud_jupyter/)
+
+12. [datetime 한국시간으로 동기화](https://leejaeng.tistory.com/11)
 
 
 ### 사용한 버전
